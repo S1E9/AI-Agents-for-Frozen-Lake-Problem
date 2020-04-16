@@ -1,4 +1,4 @@
-# AI-Agents-for-Maze-Problem
+# AI-Agents-for-Frozen-Lake-Problem
 The task contains three different agents. A random agent, a simple agent and a RL agent. The problem is similar to the Frozen Lake problem which introduced by Open AI Gym. It requires the agent to “learn” how to get across the lake from the start point to the goal point and not to fall into a hole.
 
 ./aima-python-uofg_v20192020b is contained as a zip file in the file list
